@@ -28,5 +28,5 @@ Follow these steps to get a local copy up and running:
    python -m venv venv
    source venv/bin/activate  # On Windows, use `venv\Scripts\activate`
    
-3. Run the code and BOOM! You have entered into Flappy Bird world 🚀🎮
+3. Run the code and **BOOM! You have entered into Flappy Bird world 🚀🎮**
     
