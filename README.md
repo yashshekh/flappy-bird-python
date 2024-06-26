@@ -29,4 +29,15 @@ Follow these steps to get a local copy up and running:
    source venv/bin/activate  # On Windows, use `venv\Scripts\activate`
    
 3. Run the code and **BOOM! You have entered into Flappy Bird world 🐦🚀🎮**
-    
+
+**DEMO**
+![Flappy Bird by Yash 6_26_2024 11_53_16 AM](https://github.com/yashshekh/flappy-bird-python/assets/120656373/4dc7b8a5-9eae-4198-b548-c1e8523c8214)
+
+![ezgif-2-f0daa9d6e8](https://github.com/yashshekh/flappy-bird-python/assets/120656373/2c0032a6-b413-4e3c-b1e7-e98e1fbfbfe6)
+
+
+
+
+
+
+
